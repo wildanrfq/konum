@@ -1,3 +1,7 @@
+% Nama: Wildan Rifqi Prambudi
+% NIM: 123240060
+% Kelas: IF-F
+%
 % Soal:
 % 1. x^2 + 4x - 21 = 0 → cari akar positif
 % 2. x^3 - 5x^2 - x + 5 = 0 → cari akar negatif
